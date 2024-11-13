@@ -1,0 +1,10 @@
+# Generated files
+/target/
+
+# Generated tables
+/data/*
+# Don't ignore the folder itself or its readme
+!data/README.md
+
+# Apple metadata files
+**/.DS_Store
